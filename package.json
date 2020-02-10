@@ -1,0 +1,19 @@
+{
+  "name": "jeu_ballons",
+  "version": "1.0.0",
+  "description": "Jeu du ballons",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChRachou/jeu_ballons.git"
+  },
+  "author": "Rachel Choisis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChRachou/jeu_ballons/issues"
+  },
+  "homepage": "https://github.com/ChRachou/jeu_ballons#readme"
+}
